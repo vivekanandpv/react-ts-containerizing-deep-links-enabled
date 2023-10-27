@@ -1,0 +1,5 @@
+To create the application:
+npx create-react-app my-app --template typescript
+
+To create a TypeScript component using Simple React Snippets (a VS Code extension):
+fc
